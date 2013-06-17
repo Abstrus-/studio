@@ -1,4 +1,1 @@
-studio
-======
-
-A graphical replication of the ROBLOX studio for use in game
+The goal of this project is to create a graphical replication of the ROBLOX studio for use in game. The exact details of this project still need to be sorted out, please participate in the discussion on [the issue manager](https://github.com/ROBLOX/studio/issues).
